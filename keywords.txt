@@ -1,0 +1,12 @@
+main
+bool
+integer
+string
+true
+then
+if
+else
+endif
+return
+FUNC
+ENDF

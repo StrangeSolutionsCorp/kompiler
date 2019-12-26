@@ -1,0 +1,19 @@
+FUNC convert(integer x, integer z){
+	z = x + z;
+	z return;
+}
+ENDF;
+main() {
+integer x;
+bool y;
+integer z;
+z=5;
+y=true;
+if (x==5) then
+{ x=x+1;
+z=x+z+5;
+}
+else{
+z=convert(x,x);
+}endif;
+}
